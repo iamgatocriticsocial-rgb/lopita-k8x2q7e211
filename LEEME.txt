@@ -1,0 +1,3 @@
+Sube TODOS estos archivos a la misma carpeta de tu repositorio de GitHub:
+index.html, video.parte1, video.parte2, video.parte3, video.parte4
+Activa GitHub Pages y abre el link. Contrasena: la que te di.
